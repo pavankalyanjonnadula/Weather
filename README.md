@@ -1,9 +1,8 @@
 # Weather
-To fetch the current location weather and dynamically add new locations.\n
-Persist storage of data.\n
-Check the screen recording to know about the app.\n
-
-Dynamic timings of the selected location
+To fetch the current location weather and dynamically add new locations.
+Persist storage of data.
+Check the screen recording to know about the app.
+Dynamic timings of the selected location.
 
 
 
